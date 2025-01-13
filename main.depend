@@ -1,0 +1,28 @@
+# depslib dependency file v1.0
+1736244048 source:c:\users\win10\onedrive\desktop\projet\main\bib.c
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+
+1736245595 source:c:\users\win10\onedrive\desktop\projet\main\main.c
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+	"bibb.h"
+
+1736243899 c:\users\win10\onedrive\desktop\projet\main\bibb.h
+
+1736694708 source:c:\users\pc\desktop\code pe\bib.c
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+	"bibb.h"
+
+1736694682 source:c:\users\pc\desktop\code pe\main.c
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+	"bibb.h"
+
+1736694682 c:\users\pc\desktop\code pe\bibb.h
+
